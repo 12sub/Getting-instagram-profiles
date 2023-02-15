@@ -14,7 +14,7 @@ print("Links: ", instaBioLinks)
 print("Json: ", instaBioJson)
 
 #TO get the .json file
-# with open('subomi713_user.json', 'r') as json_file:
+# with open('you_ig_handle.json', 'r') as json_file:
 #     json_loads = json.load(json_file)
     
 # for x in json_loads:
